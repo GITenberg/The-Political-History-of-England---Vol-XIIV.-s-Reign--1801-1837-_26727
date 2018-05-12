@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '32205'
     url: http://www.gutenberg.org/2009/agents/32205
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26727#The-Political-History-of-England---Vol-XIIV.-s-Reign--1801-1837-
 gutenberg_issued: '2008-09-30'
 gutenberg_type: Text
 identifiers:
