@@ -1,0 +1,35 @@
+_repo: The-Political-History-of-England---Vol-XIIV.-s-Reign--1801-1837-_26727
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fotheringham, John Knight
+    alias: Fotheringham, J. K. (John Knight)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '32206'
+    url: http://www.gutenberg.org/2009/agents/32206
+  - agent_name: Brodrick, George C. (George Charles)
+    alias: Brodrick, George Charles
+    birthdate: 1831
+    deathdate: 1903
+    gutenberg_agent_id: '32205'
+    url: http://www.gutenberg.org/2009/agents/32205
+description: ''
+gutenberg_issued: '2008-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- 1800-1837'
+- !lcsh 'Great Britain -- Politics and government -- 1800-1837'
+- !lcc 'DA'
+title: "The Political History of England - Vol XI\r\nFrom Addington's Administration\
+  \ to the close of William IV.'s Reign (1801-1837)"
+url: http://www.gutenberg.org/ebooks/26727
